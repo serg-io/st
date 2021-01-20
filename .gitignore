@@ -1,0 +1,4 @@
+# Ignore files and directories created during compilation by makepkg.
+src/
+pkg/
+*.tar.zst
